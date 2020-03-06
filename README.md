@@ -9,5 +9,3 @@
 or
 
 `gradlew.bat clean build` (for windows)
-
-inside the project directory to check if everything works.
